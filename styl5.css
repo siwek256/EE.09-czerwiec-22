@@ -1,0 +1,59 @@
+body {
+    font-family: Tahoma;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+
+}
+#lewybanner {
+    background-color: #003d33;
+
+}
+#prawybanner {
+    background-color: #003d33;
+    color: white;
+}
+#lewyglowny {
+    background-color: #26a69a;
+    height: 550px;
+    width: 30%;
+    float: left;
+
+}
+#prawyglowny {
+    background-color: #26a69a;
+    height: 550px;
+    width: 70%;
+    float: right;
+}
+footer {
+    background-color: #003d33;
+    color: white;
+}
+#wizytowka {
+    width: 400px;
+    margin: 30px;
+    text-align: center;
+    border: 1px solid #003d33;
+
+}
+#przycisk-wizytowka {
+    background-color: #003d33;
+    color: white;
+    height: 100%;
+    width: 30px;
+
+}
+#przycisk-wizytowka:focus {
+    background-color: #004c40;
+}
+#banner{
+    display: flex;
+    justify-content: space-between;
+    background-color: #003d33;
+}
+h2,h5{
+    color:white;
+    margin:0;
+}
